@@ -1,7 +1,7 @@
 # Apache-Cordova
 a simple color screen changing application using Visual Studio with Apache Cordova
 
-In order for the application to run, you will need the following:
+In order for the application to run on your mobile device, you will need the following:
 
 
 1. Visual Studio
